@@ -1,16 +1,15 @@
-# Rogue-Swerve-2021
+# SwervyMcSwervyiboi-2022
 
-This is Knight Vision 3175's offseason swerve from Summer/Fall 2021
+Knight Vision 3175's offseason swerve from Fall 2022
 
 # Hardware
 
-Modules - Swerve Drive Specialties MK3 modules
+Modules - Swerve Drive Specialties MK4i modules
 
 Motors - Falcon 500 motors for azimuth and drive
 
 Encoders - Drive encoder is the built in falcon encoder, angle is CTRE CANCoder
 
-Gyro - NavX gyro
-
+Gyro - Pigeon 2.0
 
 
